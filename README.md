@@ -1,15 +1,5 @@
-Universidad de San Carlos de Guatemala
+# Manual de Usuario - GoDrive
 
-Facultad de Ingeniería
-
-Escuela de Ciencias y Sistemas
-
-Estructura de Datos
-
-# Manual de Usuario - Proyecto Fase 2
-
-| Nombre | Carnet |  
-| ------ | ------ |  
 | Pablo Josué Barahona Luncey | 202109715 |  
 
 ## Descripción General
